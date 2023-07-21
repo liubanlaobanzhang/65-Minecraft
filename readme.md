@@ -19,7 +19,7 @@ _暂无预览_
 
 ## 如何使用？
 
-你可以下载 [Releases](releases) 页面内的整合包，一键导入 PCL2/HMCL/BakaXL 中。
+你可以下载 [Releases](https://github.com/liubanlaobanzhang/65-Minecraft/releases) 页面内的整合包，一键导入 PCL2/HMCL/BakaXL 中。
 
 <details>
 <summary>遇到困难？</summary>
